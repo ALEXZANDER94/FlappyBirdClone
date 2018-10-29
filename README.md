@@ -23,6 +23,7 @@ This project runs just as the popular mobile game has. The only feature I did no
 TOOLS
 
 Android Studio - the Android IDE used to develop this software
+
 GDX - the Android Framework used for the development and methods commonly found in game development (create, render, etc.)
 
 
